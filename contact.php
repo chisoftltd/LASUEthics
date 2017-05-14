@@ -121,21 +121,21 @@ if (isset($_POST["submit"])) {
                         <h2>Our Location</h2>
                         <address>
                             <strong>LASUEthics | Research Ethics Solution</strong><br>
-                            Robert Gordon University<br>
-                            Garthdee House<br>
-                            Garthdee Road<br>
-                            Aberdeen<br>
-                            AB10 7QB<br>
-                            Scotland<br>
-                            United Kingdom<br>
-                            <abbr>P:</abbr> +44 1224 262000
+                            Lagos State University<br>
+                            Lagos - Badagry Express Way<br>
+                            PMB 0001 LASU Post Office<br>
+                            Ojo<br>
+                            Lagos<br>
+                            Nigeria<br>
+                            <br>
+                            <abbr>P:</abbr> +234 8034939213
                         </address>
                     </div>
                     <div id="map-container" class="col-md-8"></div>
                     <script> //function to get map location
 
                         function init_map() {
-                            var var_location = new google.maps.LatLng(57.1184, -2.1410);
+                            var var_location = new google.maps.LatLng(6.4691, 3.2003);
 
                             var var_mapoptions = {
                                 center: var_location,
