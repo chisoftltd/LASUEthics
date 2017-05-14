@@ -71,7 +71,7 @@ if (!isset($_SESSION['usr_id'])) {
 <div class="container">
     <h3>Web Application Description - LASUEthics</h3>
     <p>
-        This web application which I called LASUEthics is an online application that will manage LASU researcher’s
+        This web application which is called LASUEthics is an online application that will manage LASU researcher’s
         experiment ethics. </p>
     <p>The interface should have a logo, navigation bar with elements like “Home”, “About Us”, “Research”,
         “Ethics Approval Officers (EAO)”, “Contact US” and “Login”. </p>
@@ -86,6 +86,9 @@ if (!isset($_SESSION['usr_id'])) {
     </p>
     <p>Furthermore, the application will allow researchers and staff to submit assessment of EAO and the EAOs in turn
         will also have same permission for the Administrators.
+        This project was develop by <strong>Mr Benjamin u. Chinwe</strong> in collaboration with Information and
+        Communication Technology Center (ICTC)
+        of the university
     </p>
 
 </div><!-- end of content div-->
