@@ -130,6 +130,16 @@ if (isset($_POST["submit"])) {
                             <br>
                             <abbr>P:</abbr> +234 8034939213
                         </address>
+                        <br>
+                        <address>
+                            <strong>LASUEthics | Benjamin U. Chinwe</strong><br>
+                            Jensen Education<br>
+                            Stockholm - Sweden<br>
+                            <br>
+                            <abbr>P:</abbr> Nigeria +(00)234 908 043 3 684
+                            <br>
+                            <abbr>P:</abbr> Sweden +(00)46 752319508
+                        </address>
                     </div>
                     <div id="map-container" class="col-md-8"></div>
                     <script> //function to get map location
