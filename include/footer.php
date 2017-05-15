@@ -15,7 +15,9 @@
                     of information</a></li>
             <li><a href="http://www.LASU.ac.uk/footer/privacy-and-cookie-statement/privacy-and-cookie-statement/">Privacy
                     and cookie statement</a></li>
-            <li><a href="http://www.LASU.ac.uk/footer/complaints/complaints/">Complaints</a></li>
+            <li>
+                <a href="http://www.lasu.edu.ng/28-news-bulletin/156-guidelines-on-on-line-complaints-for-students-at-lasu-external-system.html">Complaints</a>
+            </li>
             <!--<li><a href="http://www.LASU.ac.uk/footer/copyright-2017/copyright/">Copyright ©2017</a></li>-->
             <li><a href="contact.php">Contact</a></li>
         </ul>
