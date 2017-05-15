@@ -86,7 +86,7 @@ if (!isset($_SESSION['usr_id'])) {
     </p>
     <p>Furthermore, the application will allow researchers and staff to submit assessment of EAO and the EAOs in turn
         will also have same permission for the Administrators.
-        This project was develop by <strong>Mr Benjamin u. Chinwe</strong> in collaboration with Information and
+        This project was develop by <strong>Mr Benjamin U. Chinwe | Jensen Education | Stockholm | Sweden</strong> in collaboration with Information and
         Communication Technology Center (ICTC)
         of the university
     </p>
