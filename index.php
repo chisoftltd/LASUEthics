@@ -82,7 +82,7 @@ include_once 'dbconnect.php';
             project. Most research institution and centers are
             commitment to promote and facilitate the conduct of research ethics and integrity.</p>
         <h3>Purpose of Ethical Standards</h3>
-        <p>In line with acceptable police and framework, LASU attaches great importance to addressing the ethical
+        <p>In line with acceptable police and framework, Lagos State University (LASU) attaches great importance to addressing the ethical
             implications of all research activities
             carried out by its members, be they undergraduates, postgraduates or academic members of staff.
             Attention to the ethical and legal implications of research for researchers, research subjects, sponsors and
